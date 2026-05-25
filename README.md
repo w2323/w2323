@@ -1,7 +1,7 @@
 <div align="center">
 
 # Wasif Mehmood Mughal
-### Web Developer · AI/ML Enthusiast · Game Developer · Freelancer
+### Web Developer · AI/ML Enthusiast · Game Developer · Poet · Freelancer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasif-mehmood-mughal-a7a717411)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/wasif._.mughal.911?igsh=MW1ibzJiZm9kcHU0YQ==)
@@ -10,25 +10,57 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+Game+Developer;AI+%26+ML+Explorer;Building+cool+things+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+Game+Developer;AI+%26+ML+Explorer;Poet+%7C+Creative+Writer;Building+cool+things+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
+
+```python
+# wasif.py
+
+name     = "Wasif Mehmood Mughal"
+based_in = "Rawalpindi, Pakistan 🇵🇰"
+studying = "BSCS @ FAST University Islamabad"
+roles    = ["Web Developer", "AI/ML Explorer", "Game Developer", "Poet", "Freelancer"]
+status   = "Building, learning, and writing — all at once."
+```
 
 ## About Me
 
-Hey! I'm Wasif — a passionate developer and tech enthusiast currently pursuing my **Bachelor's in Computer Science at FAST University Islamabad (Batch '28)**. Based in Rawalpindi, Pakistan, I'm someone who genuinely loves the craft of building software — whether it's a sleek responsive website, an intelligent ML-powered app, or a C++ game built completely from scratch.
+I'm Wasif — a developer, a dreamer, and a writer all packed into one person.
 
-I got into programming because I love creating things that actually work and actually matter. Since then I've been pushing myself across multiple domains — web development, game development, AI/ML, and data analysis — always looking to level up and ship real projects for real people.
+By day I'm grinding data structures and shipping projects at **FAST University Islamabad**, one of Pakistan's top CS universities. By night I'm either debugging some wild problem, training a model, or writing poetry at 2am because that's just how I'm built.
 
-I'm currently freelancing as a **Web & Game Developer**, helping startups and local businesses build their digital presence, while sharpening my computer science fundamentals at university. I believe the best way to learn is by doing — and I've got the projects to prove it.
+I've worked across a lot of ground — building responsive websites for real clients, developing games from the ground up, exploring AI and machine learning, and turning raw data into stories that actually mean something. I don't stick to one lane. I find that the best ideas come from the overlap between different worlds.
 
-> *"Code is not just instructions for computers — it's a medium for ideas."*
+And yes — I also write. Poetry, creative pieces, thoughts that don't fit in a commit message. Code and words are not that different, really. Both are just ways of expressing something true.
+
+## A Poem (Because Why Not)
+
+```
+// I open my editor at midnight, the cursor blinking slow,
+// A hundred tabs, a thousand thoughts, and nowhere left to go.
+// I write in Python, C++, in logic cold and clean,
+// But some things can't be compiled — you know exactly what I mean.
+
+// I've built projects from nothing, seen my commits stack high,
+// Debugged the toughest errors under a 3am sky.
+// Data trained and models tuned, the graphs all looking right,
+// But the hardest thing I've ever solved was making peace at night.
+
+// They say code is just instructions, just syntax, just a tool,
+// But I pour something real in it — call me crazy, call me a fool.
+// Every function that I write, every loop, every line,
+// Is me trying to make something in this world that's mine.
+
+// So I keep going — ship the build, push to main, stay true,
+// Half developer, half poet, entirely me — entirely new.
+```
 
 ## What I'm Building
 
-- 🌐 **Full-Stack Web Apps** — Designing and developing responsive, modern web applications with clean UIs and solid backends using React, Node.js, and more
-- 🤖 **AI/ML Projects** — Exploring machine learning algorithms, building data visualization tools, and implementing models that solve real problems
-- 🎮 **C++ Game Development** — Crafting fully functional games with custom physics, AI-controlled enemies, animations, and sound — all from scratch in C++
-- 📊 **Data Analysis Tools** — Building pipelines and dashboards that transform messy data into clear, actionable insights
-- 📚 **CS Fundamentals** — Grinding data structures, algorithms, databases, and software engineering at FAST — building the foundation that makes everything else possible
+- 🌐 **Full-Stack Web Apps** — Responsive, modern web applications with clean UIs and solid backends, built for real clients and real users
+- 🤖 **AI / ML Projects** — Machine learning models, intelligent systems, and data-driven tools that actually solve problems
+- 🎮 **Games** — Fully functional games built from scratch in C++ — custom logic, animations, sound, AI enemies, the works
+- 📊 **Data Analysis Projects** — Dashboards and pipelines that turn messy data into clear insights and smarter decisions
+- ✍️ **Creative Writing** — Poetry and prose on the side, because not everything worth building is made of code
 
 ## Tech Stack
 
@@ -60,7 +92,6 @@ I'm currently freelancing as a **Web & Game Developer**, helping startups and lo
 **Game Development**
 
 ![C++](https://img.shields.io/badge/C++_/_SFML-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 
 **Tools & Platforms**
 
@@ -76,53 +107,36 @@ I'm currently freelancing as a **Web & Game Developer**, helping startups and lo
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## Featured Projects
+## What I've Worked On
 
-### 🦔 Sonic the Hedgehog — C++ Platformer
-A fully custom-built platformer game inspired by the classic Sonic series. Built entirely in C++ with SFML, featuring smooth character movement, sprite animations, sound effects, and level design — all implemented without a game engine.
-
-### 🐝 Buzz Bomber — Arcade Game
-A recreation of the classic Buzz Bomber arcade game built in C++. Features AI-controlled enemies with movement patterns, a scoring system, multiple difficulty levels, and full sound integration.
-
-### ⬛ Xonix — Territory Capture Game
-A logic-heavy territory-capturing game where players claim area while dodging enemies. Implemented with collision detection, dynamic boundary logic, and smooth rendering in C++.
-
-### 🌍 Client Web Projects
-Built and deployed multiple production websites for local clients and startups — including product landing pages, personal portfolios, and small e-commerce solutions — using HTML, CSS, JavaScript, and modern frameworks.
-
-### 📊 Data Visualization Suite
-Developed a set of data analysis and visualization tools that improved reporting efficiency and helped stakeholders make faster, data-driven decisions. Integrated ML algorithms to identify patterns and trends.
-
-## Highlights at a Glance
-
-| Area | What I Bring |
-|------|-------------|
-| 🌐 Web Development | Responsive websites · React frontends · REST APIs · Full-stack apps |
-| 🤖 AI / ML | Machine learning models · Data visualization · Predictive analytics |
-| 🎮 Game Development | C++/SFML games · Custom physics · AI enemies · Animations & sound |
-| 📊 Data Analysis | Visualization dashboards · Reporting tools · Data pipelines |
-| 💼 Freelance | Client websites · Startups · Digital marketing · Remote teamwork |
-| 📚 Education | BSCS @ FAST Islamabad · DSA · Databases · Software Engineering |
-
-## Currently Learning
-
-- Advanced machine learning techniques and neural networks
-- Building production-ready full-stack web applications with React and Node.js
-- Java for object-oriented design and backend development
-- Competitive programming and algorithmic problem solving
+| Domain | Details |
+|--------|---------|
+| 🌐 Web Development | Client websites · Portfolios · E-commerce · Full-stack apps |
+| 🤖 AI / ML | Predictive models · Data pipelines · ML algorithms · Analytics |
+| 🎮 Game Development | C++/SFML games · Custom physics · AI enemies · Sound & animation |
+| 📊 Data Analysis | Visualization dashboards · Reporting tools · Insight generation |
+| 💼 Freelance | Startups · Local businesses · Digital marketing · Remote work |
+| ✍️ Creative | Poetry · Prose · Creative writing · Storytelling |
 
 ## A Bit More About Me
 
-- 🏫 Studying at one of Pakistan's top CS universities — FAST-NUCES Islamabad
-- 💻 Started coding out of pure curiosity and never stopped
-- 🎮 I build games for fun — and to challenge myself with complex logic problems
-- 🤝 Love collaborating with other developers, designers, and founders
+- 🏫 Studying at **FAST-NUCES Islamabad** — one of Pakistan's top CS universities
+- 💻 Started coding out of curiosity — never stopped building
+- ✍️ I write poetry and creative pieces — words are just another kind of code
+- 🎮 I build games for fun and to challenge myself with complex problems
 - 🌍 Open to remote work and international collaboration
-- 📈 Always working on improving — whether it's a new language, a framework, or a skill
+- 🤝 Love connecting with developers, designers, writers, and founders
+
+## Currently Learning
+
+- Advanced machine learning and neural network architectures
+- Full-stack development with React and Node.js
+- Java for object-oriented design and backend systems
+- Competitive programming and algorithmic problem solving
 
 ## Let's Connect
 
-Whether you want to collaborate on a project, discuss ideas, need a freelancer, or just want to say hi — my inbox is always open.
+Whether you want to collaborate, need a freelancer, want to discuss ideas, or just appreciate a developer who also writes poetry — reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wasif-mehmood-mughal-a7a717411)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=netlify)](https://wasifporfolio.netlify.app)
