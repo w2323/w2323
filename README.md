@@ -1,7 +1,7 @@
 <div align="center">
 
 # Wasif Mehmood Mughal
-### CS Undergrad · Web Developer · Game Developer · Freelancer
+### Web Developer · Game Developer · Freelancer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasif-mehmood-mughal-a7a717411)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/wasif._.mughal.911?igsh=MW1ibzJiZm9kcHU0YQ==)
