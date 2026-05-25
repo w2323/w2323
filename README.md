@@ -32,26 +32,59 @@ I've worked across a lot of ground  building responsive websites for real client
 
 And yes  I also write. Poetry, creative pieces, thoughts that don't fit in a commit message. Code and words are not that different, really. Both are just ways of expressing something true.
 
-## A Poem (Because Why Not)
+## A Poem (In Every Language I Know)
 
+```c
+printf("I sit alone at midnight, just me and my glowing screen,\n");
+printf("I know so many languages, but love — what does it mean?\n");
 ```
-// I open my editor at midnight, the cursor blinking slow,
-// A hundred tabs, a thousand thoughts, and nowhere left to go.
-// I write in Python, C++, in logic cold and clean,
-// But some things can't be compiled — you know exactly what I mean.
-
-// I've built projects from nothing, seen my commits stack high,
-// Debugged the toughest errors under a 3am sky.
-// Data trained and models tuned, the graphs all looking right,
-// But the hardest thing I've ever solved was making peace at night.
-
-// They say code is just instructions, just syntax, just a tool,
-// But I pour something real in it — call me crazy, call me a fool.
-// Every function that I write, every loop, every line,
-// Is me trying to make something in this world that's mine.
-
-// So I keep going — ship the build, push to main, stay true,
-// Half developer, half poet, entirely me — entirely new.
+```java
+System.out.println("You live in my head rent free, ngl it feels so real,");
+System.out.println("I can build anything I want, but I can't build what you make me feel.");
+```
+```python
+print("I work so hard each day, my code is clean, my grind is true,")
+print("But honestly nothing I have built ever felt as good as you.")
+```
+```javascript
+console.log("My commits keep stacking up, my projects looking fine,");
+console.log("But without you around, none of it feels worth my time.");
+```
+```c
+printf("I train the models, read the data, everything looks right,\n");
+printf("But no formula ever told me how to sleep without you at night.\n");
+```
+```java
+System.out.println("I stay up till 3am fixing bugs, tired but I push through,");
+System.out.println("The only bug I never want to fix is how much I think of you.");
+```
+```python
+print("They say I'm good at this, and yeah I give it everything I got,")
+print("But when you smile at me I forget every single thought.")
+```
+```javascript
+console.log("I'll always be a 9 out of 10 — cuz u da one I need,");
+console.log("You fill the empty space in me, you're everything indeed.");
+```
+```c
+printf("Every loop I write just runs and runs the moment you're on my mind,\n");
+printf("You are simply the most beautiful thing I will ever find.\n");
+```
+```java
+System.out.println("I speak Python, C++, Java, and JavaScript every day,");
+System.out.println("But when I look at you I never know what words to say.");
+```
+```python
+print("So I keep building, keep pushing, keep showing up and trying,")
+print("But real talk — without you here, a part of me is dying.")
+```
+```javascript
+console.log("I know every language that a computer will ever understand,");
+console.log("But loving you is the one thing I never fully planned.");
+```
+```c
+printf("Fluent in the logic, the syntax, the code — all of it true,\n");
+printf("But u da only language that I really want to learn — and that's you.\n");
 ```
 
 ## What I'm Building
