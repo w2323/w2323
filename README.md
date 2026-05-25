@@ -24,13 +24,13 @@ status   = "Building, learning, and writing — all at once."
 
 ## About Me
 
-I'm Wasif — a developer, a dreamer, and a writer all packed into one person.
+I'm Wasif  a developer, a dreamer, and a writer all packed into one person.
 
 By day I'm grinding data structures and shipping projects at **FAST University Islamabad**, one of Pakistan's top CS universities. By night I'm either debugging some wild problem, training a model, or writing poetry at 2am because that's just how I'm built.
 
-I've worked across a lot of ground — building responsive websites for real clients, developing games from the ground up, exploring AI and machine learning, and turning raw data into stories that actually mean something. I don't stick to one lane. I find that the best ideas come from the overlap between different worlds.
+I've worked across a lot of ground  building responsive websites for real clients, developing games from the ground up, exploring AI and machine learning, and turning raw data into stories that actually mean something. I don't stick to one lane. I find that the best ideas come from the overlap between different worlds.
 
-And yes — I also write. Poetry, creative pieces, thoughts that don't fit in a commit message. Code and words are not that different, really. Both are just ways of expressing something true.
+And yes  I also write. Poetry, creative pieces, thoughts that don't fit in a commit message. Code and words are not that different, really. Both are just ways of expressing something true.
 
 ## A Poem (Because Why Not)
 
@@ -56,11 +56,11 @@ And yes — I also write. Poetry, creative pieces, thoughts that don't fit in a 
 
 ## What I'm Building
 
-- 🌐 **Full-Stack Web Apps** — Responsive, modern web applications with clean UIs and solid backends, built for real clients and real users
-- 🤖 **AI / ML Projects** — Machine learning models, intelligent systems, and data-driven tools that actually solve problems
-- 🎮 **Games** — Fully functional games built from scratch in C++ — custom logic, animations, sound, AI enemies, the works
-- 📊 **Data Analysis Projects** — Dashboards and pipelines that turn messy data into clear insights and smarter decisions
-- ✍️ **Creative Writing** — Poetry and prose on the side, because not everything worth building is made of code
+- 🌐 **Full-Stack Web Apps**  Responsive, modern web applications with clean UIs and solid backends, built for real clients and real users
+- 🤖 **AI / ML Projects**  Machine learning models, intelligent systems, and data-driven tools that actually solve problems
+- 🎮 **Games**  Fully functional games built from scratch in C++ — custom logic, animations, sound, AI enemies, the works
+- 📊 **Data Analysis Projects** Dashboards and pipelines that turn messy data into clear insights and smarter decisions
+- ✍️ **Creative Writing** Poetry and prose on the side, because not everything worth building is made of code
 
 ## Tech Stack
 
