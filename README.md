@@ -1,130 +1,89 @@
-# Hey, I'm Wasif 👋
+<div align="center">
 
-🎓 Computer Science Undergrad @ FAST-NUCES (Batch ’28) — Pakistan  
-🧠 Builder of systems, ideas, and intelligent software  
-🚀 Founder & CEO building workflow automation systems  
-✍️ Poet — writing when code stops talking  
+# Wasif Mehmood Mughal
+### CS Undergrad · Web Developer · Game Developer · Freelancer
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasif-mehmood-mughal-a7a717411)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/wasif._.mughal.911?igsh=MW1ibzJiZm9kcHU0YQ==)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rena.rouge40@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://wasifporfolio.netlify.app)
 
-## ◼ About Me
+</div>
 
-I work at the intersection of **AI, systems programming, and creative expression**.
+## About Me
 
-To me, code is not just engineering — it’s structure.  
-And poetry is not just writing — it’s compression of thought.
+I'm a Computer Science undergrad at **FAST University Islamabad (Batch 28)** based in Rawalpindi, Pakistan. I enjoy building things whether that's a responsive website for a client, a C++ game from scratch, or diving deep into data structures and algorithms for class.
 
-I move between both worlds.
+I work across web development, game development, and data analysis. I learn best by doing, and I'm always shipping something new — from arcade-style games to client websites.
 
-I enjoy understanding systems deeply enough to rebuild them — whether it’s an LLM pipeline, a game engine, or a low-level memory model in C++.
+Currently freelancing as a **Web & Game Developer**, helping startups and small businesses build their digital presence while sharpening my CS fundamentals at university.
 
-I don’t just use tools. I try to understand what makes them possible.
+## What I'm Working On
 
----
+- 🌐 **Web Projects** — Building responsive, user-friendly websites with HTML, CSS, JavaScript, and modern frameworks for real clients
+- 🎮 **C++ Game Development** — Platformers, arcade games, and territory-capturing games built with custom logic and SFML
+- 📊 **Data Analysis** — Exploring data visualization tools and working with machine learning concepts
+- 📚 **CS Fundamentals** — Deepening my knowledge in data structures, algorithms, databases, and software engineering at FAST
 
-## ◼ What I Do
+## Tech Stack
 
-### 🤖 AI & Intelligent Systems
-I build applied AI systems that work in the real world:
-- RAG pipelines using LangChain + ChromaDB
-- LLM-based chat systems with tool integration
-- Experimenting with agentic workflows and memory systems
-- Turning research ideas into usable software
+**Languages**
 
----
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### 🚀 Startup Work
-I’m currently building a **workflow automation startup**:
-- Designing system architecture and MVP from scratch
-- Automating repetitive human processes with AI
-- Thinking in terms of scalability, latency, and reliability
-- Balancing product thinking with engineering depth
+**Web**
 
----
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🎮 Game Development
-I like building things that feel alive:
-- 10+ games built in Python (pygame) and C++ (SFML)
-- Chess engine with alpha-beta pruning
-- Tetris, arcade systems, and custom physics logic
-- Focus on logic design and clean architecture
+**AI / Data**
 
----
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-### 🔧 Systems Programming
-I go low when I need clarity:
-- x86 assembly fundamentals
-- Memory layout, linking, and execution flow
-- Debugging at the compiler/runtime boundary
-- Understanding how software actually runs
+**Tools & Platforms**
 
----
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-## ◼ Creative Side
+**Design**
 
-### ✍️ Poetry
-I write poetry — usually when I’m thinking too much in systems.
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-For me, poetry is:
-- a way to compress emotion into structure  
-- a break from deterministic thinking  
-- another kind of programming language  
+## Highlights
 
-Sometimes I write about machines.  
-Sometimes about people.  
-Sometimes about silence between thoughts.
+| Area | Details |
+|------|---------|
+| 🌐 Web Dev | Responsive websites · Client projects · Portfolios · E-commerce |
+| 🎮 Game Dev | Sonic the Hedgehog · Buzz Bomber · Xonix Game · C++/SFML |
+| 📊 Data | Data visualization · ML algorithms · Reporting tools |
+| 💼 Freelance | Startups · Small businesses · Digital presence · Remote work |
+| 📚 Currently | BSCS @ FAST Islamabad · DSA · Databases · Software Engineering |
 
----
+## Key Projects
 
-## ◼ Tech Stack
+**🦔 Sonic the Hedgehog** — Custom-built platformer in C++ with animations, sound, and character movement
 
-**Languages**  
-`Python` · `C++` · `C` · `JavaScript` · `Assembly`
+**🐝 Buzz Bomber** — Classic arcade game recreation with AI-controlled enemies, scoring, and sound effects
 
-**AI / ML**  
-`PyTorch` · `NumPy` · `Matplotlib` · `LangChain` · `ChromaDB`
+**⬛ Xonix Game** — Territory-capturing game with logic-based movement and collision handling
 
-**Web / Backend**  
-`React` · `Node.js` · `FastAPI`
+**🌍 Client Websites** — Built and deployed product pages, portfolios, and small e-commerce solutions for local clients
 
-**Tools**  
-`Git` · `CMake` · `Arduino` · `Render` · `Netlify`
+## Let's Connect
 
-**Design / Creative**  
-`Writing` · `Poetry` · `Adobe Illustrator` · `Adobe Photoshop`
+Always open to collaborating on interesting projects, freelance work, or just talking tech. Feel free to reach out!
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wasif-mehmood-mughal-a7a717411)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rena.rouge40@gmail.com)
 
-## ◼ Focus Areas
-
-- Scalable AI systems that solve real problems  
-- Systems programming and low-level architecture  
-- Turning ideas into working products quickly  
-- Exploring the boundary between logic and creativity  
-
----
-
-## ◼ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## ◼ Let’s Connect
-
-I’m open to:
-- AI / systems collaboration  
-- Open-source projects  
-- Startup discussions  
-- Deep technical conversations  
-- Creative writing exchanges  
-
-📫 Email: your.email@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-
----
-
-🇵🇰 Based in Pakistan · Open to global remote opportunities  
+<div align="center">
+  <sub>Based in Rawalpindi, Pakistan</sub>
+</div>
